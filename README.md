@@ -2,7 +2,7 @@
 # investigar-web
 # instalación
 #pkg install git
- no si sirve de mucho de nada:v
+ no si sirve de mucho de nada casi:v
 
 #pkg install python
 
